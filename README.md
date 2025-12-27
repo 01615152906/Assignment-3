@@ -44,6 +44,8 @@ Matches the sample output provided in the assignment.
 
 
 
-GitHub Repo: https://github.com/yourname/vehicle-rental-system-sql
-ERD Link: https://lucid.app/....
+GitHub Repo: https://github.com/01615152906/Assignment-3
+
+ERD Link: https://drive.google.com/file/d/1J1ksfkGNZdsSLYMfUfAKGnHcNRQSgr78/view?usp=sharing
+
 Viva Video Link: https://youtube.com/....
