@@ -48,4 +48,4 @@ GitHub Repo: https://github.com/01615152906/Assignment-3
 
 ERD Link: https://drive.google.com/file/d/1J1ksfkGNZdsSLYMfUfAKGnHcNRQSgr78/view?usp=sharing
 
-Viva Video Link: https://youtube.com/....
+Viva Video Link: https://drive.google.com/drive/folders/1eaPYKLtEnPhH9t_cll2nxk6PZYK3hvZ5?usp=drive_link
